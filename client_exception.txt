@@ -1,0 +1,22 @@
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:401)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:434)
+	at bg.sofia.uni.fmi.mjt.splitwise.Client.main(Client.java:44)
+java.io.IOException: Connection reset by peer
+	at java.base/sun.nio.ch.SocketDispatcher.write0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.write(SocketDispatcher.java:54)
+	at java.base/sun.nio.ch.IOUtil.writeFromNativeBuffer(IOUtil.java:136)
+	at java.base/sun.nio.ch.IOUtil.write(IOUtil.java:80)
+	at java.base/sun.nio.ch.IOUtil.write(IOUtil.java:57)
+	at java.base/sun.nio.ch.SocketChannelImpl.write(SocketChannelImpl.java:542)
+	at bg.sofia.uni.fmi.mjt.splitwise.Client.main(Client.java:41)
+java.net.ConnectException: Connection refused: connect
+	at java.base/sun.nio.ch.Net.connect0(Native Method)
+	at java.base/sun.nio.ch.Net.connect(Net.java:579)
+	at java.base/sun.nio.ch.Net.connect(Net.java:586)
+	at java.base/sun.nio.ch.SocketChannelImpl.connect(SocketChannelImpl.java:880)
+	at bg.sofia.uni.fmi.mjt.splitwise.Client.main(Client.java:24)
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:401)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:434)
+	at bg.sofia.uni.fmi.mjt.splitwise.Client.main(Client.java:44)

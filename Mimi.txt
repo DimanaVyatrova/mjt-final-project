@@ -1,0 +1,4 @@
+friend:Didi:0.0:1.0
+Receiver:Didi amount:15.0
+group:bday:60.0
+group:group:0

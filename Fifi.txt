@@ -1,0 +1,3 @@
+group:bday:30.0
+group:group:0
+Receiver: group bday Amount:30.0

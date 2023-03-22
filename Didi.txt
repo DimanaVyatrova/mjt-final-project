@@ -1,0 +1,6 @@
+friend:Mimi:1.0:0.0
+Receiver:Mimi Amount:4.0
+group:bday:0.0
+group:group:0
+Receiver: group bday Amount:20.0
+Receiver: group bday Amount:30.0
